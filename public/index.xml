@@ -17,10 +17,10 @@
         </item>
         <item>
         <title>取什么标题好</title>
-        <link>http://localhost:1313/p/%E5%8F%96%E4%BB%80%E4%B9%88%E6%A0%87%E9%A2%98%E5%A5%BD/</link>
+        <link>http://localhost:1313/p/the-thoughts-2/</link>
         <pubDate>Mon, 06 Oct 2025 18:15:44 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E5%8F%96%E4%BB%80%E4%B9%88%E6%A0%87%E9%A2%98%E5%A5%BD/</guid>
+        <guid>http://localhost:1313/p/the-thoughts-2/</guid>
         <description>&lt;p&gt;上了大学之后总感觉要思考的事情一下子变得多了起来，不只是人生哲理方面。一个小时之后要做的事，明天要做的事，半个月后要做的事，寒假要做的事，毕业之后要做的事全都叠在现在的自己身上。纵然可以相信时间的力量能够化险为夷，但是总觉得还是稍微主动一些去迎击才是好策略。&lt;/p&gt;
 &lt;p&gt;后天又要考线性代数，抓了两张草稿纸准备做点模考题。一个人在空荡荡的寝室里，总觉得听点什么才好。平时行路上听的音乐太闹腾，村上的爵士乐单却觉得太不正经，鬼使神差打开日式管弦的收藏夹开始轮播，不久就撞见千と千尋の神隠しOST。自认为权且算是流动着的旋律不至于让人嗜睡，也算是埋头进了数学的境地里。&lt;/p&gt;
 &lt;p&gt;记得小时候家里有台蓝光光碟机，还有全套的吉卜力动画碟片。上幼儿园和小学的时候，每逢闲暇时总要选一张，煞有其事地拉上客厅所有的窗帘，靠在沙发上看一下午。那时候也不会细想故事的主题内核，只记得个情节大概，配上相当水平的音乐，就算反复看也不觉得无聊匮乏。&lt;/p&gt;
@@ -37,10 +37,10 @@
         </item>
         <item>
         <title>关于</title>
-        <link>http://localhost:1313/%E5%85%B3%E4%BA%8E/</link>
+        <link>http://localhost:1313/about/</link>
         <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>http://localhost:1313/about/</guid>
         <description>&lt;p&gt;欢迎，欢迎。&lt;/p&gt;
 &lt;p&gt;不知道是怎样的邀请让你来到这里。不论是应邀前来还是误打误撞，这片石岸都会是这个样子。&lt;/p&gt;
 &lt;p&gt;本想把这里做成富有竞争力的职业生涯记录，但是奈何脑子里的东西实在存的太多，权且把这里当作临时的仓库。&lt;/p&gt;
@@ -79,7 +79,8 @@
         
         <guid>http://localhost:1313/p/ib-chem/</guid>
         <description>&lt;p&gt;这一界面提供所有IB Chemistry相关的知识框架内容下载。内容依照&lt;strong&gt;BY-NC-SA 4.0&lt;/strong&gt;协议分发。&lt;/p&gt;
-&lt;p&gt;借此机会向上海市民办平和学校的&lt;strong&gt;顾思伟&lt;/strong&gt;（aka 牢固）老师致以敬意。&lt;/p&gt;
+&lt;p&gt;借此机会向上海市民办平和学校的&lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/in/siweigu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;顾思伟&lt;/strong&gt;（aka 牢固）老师&lt;/a&gt;致以敬意。&lt;/p&gt;
 &lt;h3 id=&#34;chapters&#34;&gt;Chapters
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/documents/IB_Chemistry_Chapter_13_Classification_of_Organic_Compounds.pdf&#34; &gt;IB Chemistry Chapter 13&lt;/a&gt;&lt;/li&gt;

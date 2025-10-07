@@ -1,8 +1,8 @@
 ---
-title: 关于
+title: "关于"
+slug: "about"
 description: 对于RupricaT企划的概述
 date: '2025-10-06'
-license: CC BY-NC-ND
 lastmod: '2025-10-07'
 menu:
     main: 

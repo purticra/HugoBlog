@@ -1,8 +1,8 @@
 ---
 title: "归档"
+slug: "archives"
 date: 2025-10-07
 layout: "archives"
-slug: "archives"
 menu:
     main:
         weight: -70

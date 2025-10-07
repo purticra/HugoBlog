@@ -1,10 +1,10 @@
 ---
 title: 取什么标题好
+slug: "the-thoughts-2"
 categories:
   - 杂谈
 tags:
   - 大学
-abbrlink: a0b0878b
 date: 2025-10-06 18:15:44
 ---
 
