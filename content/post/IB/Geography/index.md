@@ -10,7 +10,14 @@ date: 2024-06-06 13:16:27
 
 这一界面提供所有IB Geography相关的知识框架内容下载。内容依照**BY-NC-SA 4.0**协议分发。
 
-同时，借此机会向上海市民办平和学校的**时旭**老师致以深深的敬意。
+同时，借此机会向上海市民办平和学校的[**时旭**老师](https://www.zhihu.com/question/620530454)致以深深的敬意。
+
+<div style="text-align:center">
+	<a href="https://www.zhihu.com/question/620530454" target="_blank" rel="noopener">
+		<img src="/images/shixu.png" alt="aka 牢固" width="600">
+	</a>
+</div>
+
 
 ### Units
 
