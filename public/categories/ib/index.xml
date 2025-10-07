@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>IB on RupricaT</title>
+        <link>http://localhost:1313/categories/ib/</link>
+        <description>Recent content in IB on RupricaT</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>@purticra</copyright>
+        <lastBuildDate>Thu, 06 Jun 2024 13:16:27 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/ib/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>IB Chemistry 知识框架整理</title>
+        <link>http://localhost:1313/p/ib-chem/</link>
+        <pubDate>Thu, 06 Jun 2024 13:16:27 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/ib-chem/</guid>
+        <description>&lt;p&gt;这一界面提供所有IB Chemistry相关的知识框架内容下载。内容依照&lt;strong&gt;BY-NC-SA 4.0&lt;/strong&gt;协议分发。&lt;/p&gt;
+&lt;p&gt;借此机会向上海市民办平和学校的&lt;strong&gt;顾思伟&lt;/strong&gt;（aka 牢固）老师致以敬意。&lt;/p&gt;
+&lt;h3 id=&#34;chapters&#34;&gt;Chapters
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/documents/IB_Chemistry_Chapter_13_Classification_of_Organic_Compounds.pdf&#34; &gt;IB Chemistry Chapter 13&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/documents/IB_Chemistry_Chapter_14_Organic_Reactions.pdf&#34; &gt;IB Chemistry Chapter 14&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>IB Geography 知识框架整理</title>
+        <link>http://localhost:1313/p/ib-geo/</link>
+        <pubDate>Thu, 06 Jun 2024 13:16:27 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/ib-geo/</guid>
+        <description>&lt;p&gt;这一界面提供所有IB Geography相关的知识框架内容下载。内容依照&lt;strong&gt;BY-NC-SA 4.0&lt;/strong&gt;协议分发。&lt;/p&gt;
+&lt;p&gt;同时，借此机会向上海市民办平和学校的&lt;strong&gt;时旭&lt;/strong&gt;老师致以深深的敬意。&lt;/p&gt;
+&lt;h3 id=&#34;units&#34;&gt;Units
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/documents/IB_Geography_Unit_1_Changing_Population_Part_3.pdf&#34; &gt;IB Geography Unit 1 Part 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/documents/IB_Geography_Unit_3_Definitions_and_Explanations.pdf&#34; &gt;IB Geography Unit 3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;options&#34;&gt;Options
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/documents/IB_Geography_Option_B_Oceans_Definitions_and_Explanations_Part_1.pdf&#34; &gt;IB Geography Option B Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/documents/IB_Geography_Option_B_Oceans_Definitions_and_Explanations_Part_2.pdf&#34; &gt;IB Geography Option B Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
