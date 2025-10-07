@@ -5,7 +5,6 @@ tags:
   - 遗产
 categories:
   - IB
-lang: zh-CN
 date: 2024-06-06 13:16:27
 ---
 
