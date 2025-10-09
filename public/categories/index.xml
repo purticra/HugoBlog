@@ -7,10 +7,10 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>@purticra</copyright>
-        <lastBuildDate>Wed, 08 Oct 2025 09:25:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 08 Oct 2025 23:51:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>杂谈</title>
         <link>http://localhost:1313/categories/%E6%9D%82%E8%B0%88/</link>
-        <pubDate>Wed, 08 Oct 2025 09:25:00 +0000</pubDate>
+        <pubDate>Wed, 08 Oct 2025 23:51:00 -0400</pubDate>
         
         <guid>http://localhost:1313/categories/%E6%9D%82%E8%B0%88/</guid>
         <description>&lt;img src="http://localhost:1313/categories/%E6%9D%82%E8%B0%88/image.jpg" alt="Featured image of post 杂谈" /&gt;</description>
@@ -18,7 +18,7 @@
         <item>
         <title>IB</title>
         <link>http://localhost:1313/categories/ib/</link>
-        <pubDate>Thu, 06 Jun 2024 13:16:27 +0000</pubDate>
+        <pubDate>Thu, 06 Jun 2024 13:16:27 +0800</pubDate>
         
         <guid>http://localhost:1313/categories/ib/</guid>
         <description>&lt;img src="http://localhost:1313/categories/ib/image.png" alt="Featured image of post IB" /&gt;</description>

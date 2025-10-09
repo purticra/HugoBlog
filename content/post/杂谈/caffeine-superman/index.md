@@ -1,7 +1,7 @@
 ---
 title: "所以究竟是谁是咖啡因超人"
 slug: "caffeine-superman"
-date: 2025-10-08 09:25:00
+date: "2025-10-08T09:25:00-04:00"
 categories: 
   - 杂谈
 tags: 

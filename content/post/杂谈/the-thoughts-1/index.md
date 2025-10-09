@@ -1,7 +1,7 @@
 ---
 title: "致不知道会在什么地方收到这条信息的不知道什么人"
 slug: "the-thoughts-1"
-date: 2025-10-05 02:10:48
+date: 2025-10-05T02:10:48-04:00
 categories: 
   - 杂谈
 tags: 
