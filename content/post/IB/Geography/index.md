@@ -21,10 +21,10 @@ date: 2024-06-06 13:16:27
 
 ### Units
 
-- [IB Geography Unit 1 Part 3](/documents/IB_Geography_Unit_1_Changing_Population_Part_3.pdf)
-- [IB Geography Unit 3](/documents/IB_Geography_Unit_3_Definitions_and_Explanations.pdf)
+- [IB Geography Unit 1 Part 3](/documents/IB/Geography/IB_Geography_Unit_1_Changing_Population_Part_3.pdf)
+- [IB Geography Unit 3](/documents/IB/Geography/IB_Geography_Unit_3_Definitions_and_Explanations.pdf)
 
 ### Options
 
-- [IB Geography Option B Part 1](/documents/IB_Geography_Option_B_Oceans_Definitions_and_Explanations_Part_1.pdf)
-- [IB Geography Option B Part 2](/documents/IB_Geography_Option_B_Oceans_Definitions_and_Explanations_Part_2.pdf)
+- [IB Geography Option B Part 1](/documents/IB/Geography/IB_Geography_Option_B_Oceans_Definitions_and_Explanations_Part_1.pdf)
+- [IB Geography Option B Part 2](/documents/IB/Geography/IB_Geography_Option_B_Oceans_Definitions_and_Explanations_Part_2.pdf)

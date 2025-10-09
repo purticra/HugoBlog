@@ -20,5 +20,5 @@ date: 2024-06-06 13:16:27
 
 ### Chapters
 
-- [IB Chemistry Chapter 13](/documents/IB_Chemistry_Chapter_13_Classification_of_Organic_Compounds.pdf)
-- [IB Chemistry Chapter 14](/documents/IB_Chemistry_Chapter_14_Organic_Reactions.pdf)
+- [IB Chemistry Chapter 13](/documents/IB/Chemistry/IB_Chemistry_Chapter_13_Classification_of_Organic_Compounds.pdf)
+- [IB Chemistry Chapter 14](/documents/IB/Chemistry/IB_Chemistry_Chapter_14_Organic_Reactions.pdf)
