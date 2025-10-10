@@ -37,7 +37,7 @@ services:
         id: G-X1NFFXDVFJ
 
 pagination:
-    pagerSize: 5
+    pagerSize: 10
 
 permalinks:
     post: /p/:slug/

@@ -2,8 +2,8 @@
 title: "关于"
 slug: "about"
 description: 对于RupricaT企划的概述
-date: '2025-10-06'
-lastmod: '2025-10-07'
+date: '2025-10-06T12:00:00-04:00'
+lastmod: 2025-10-09T12:17:32-04:00
 menu:
     main: 
         weight: -90
@@ -20,3 +20,7 @@ menu:
 这里会继续发展。
 
 purticra @ RupricaT
+
+<div style="text-align: center;">
+	<img src="image.gif" alt="pic">
+</div>
