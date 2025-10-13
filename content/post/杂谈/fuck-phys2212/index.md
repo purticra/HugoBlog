@@ -1,6 +1,7 @@
 ---
 title: "不要参加大学牢大直升机项目"
 slug: "fuck-phys-2212"
+description: "飞起来！"
 date: 2025-10-12T22:10:00-04:00
 lastmod: 2025-10-12T22:50:00-04:00
 categories: 
@@ -27,5 +28,28 @@ tags:
 虽然考砸了也不会影响GPA什么问题，但是大概亏九十刀乐这件事情还是很痛苦的。
 
 好了，现在每天晚上起码不会觉得没事干了（笑
+
+<br>
+
+<style>
+.loop-integral-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3rem 0;
+}
+.loop-integral {
+  font-family: "Cambria Math", "STIXGeneral", serif;
+  font-size: 50vw;       /* 超大！可改成 15vw 或 200px 等 */
+  line-height: 0.9;
+  letter-spacing: -0.05em;
+}
+</style>
+
+<div class="loop-integral-wrap">
+  <div class="loop-integral">∮</div>
+</div>
+
+*这东西很美吧。*
 
 *purticra @ RupricaT*

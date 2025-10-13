@@ -25,6 +25,25 @@
 &lt;p&gt;狠狠上火了。&lt;/p&gt;
 &lt;p&gt;虽然考砸了也不会影响GPA什么问题，但是大概亏九十刀乐这件事情还是很痛苦的。&lt;/p&gt;
 &lt;p&gt;好了，现在每天晚上起码不会觉得没事干了（笑&lt;/p&gt;
+&lt;br&gt;
+&lt;style&gt;
+.loop-integral-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3rem 0;
+}
+.loop-integral {
+  font-family: &#34;Cambria Math&#34;, &#34;STIXGeneral&#34;, serif;
+  font-size: 50vw;       /* 超大！可改成 15vw 或 200px 等 */
+  line-height: 0.9;
+  letter-spacing: -0.05em;
+}
+&lt;/style&gt;
+&lt;div class=&#34;loop-integral-wrap&#34;&gt;
+  &lt;div class=&#34;loop-integral&#34;&gt;∮&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;这东西很美吧。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;purticra @ RupricaT&lt;/em&gt;&lt;/p&gt;
 </description>
         </item>
