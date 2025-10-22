@@ -23,13 +23,13 @@
 }
 .loop-integral {
   font-family: &#34;Source Han Serif&#34;, &#34;STIXGeneral&#34;, serif;
-  font-size: 50vw;       /* 超大！可改成 15vw 或 200px 等 */
+  font-size: 15vw;       /* 超大！可改成 15vw 或 200px 等 */
   line-height: 0.9;
   letter-spacing: -0.05em;
 }
 &lt;/style&gt;
 &lt;div class=&#34;loop-integral-wrap&#34;&gt;
-  &lt;div class=&#34;loop-integral&#34;&gt;生气！&lt;/div&gt;
+  &lt;div class=&#34;loop-integral&#34;&gt;生氣！&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;于是突然想明白一些事情。非常生气。&lt;/p&gt;
 &lt;p&gt;只愿意憎恨一些人了。&lt;/p&gt;

@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>@purticra</copyright>
-        <lastBuildDate>Tue, 21 Oct 2025 13:08:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 22 Oct 2025 14:08:54 -0400</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title></title>
+        <link>http://localhost:1313/p/the-thoughts-9/</link>
+        <pubDate>Wed, 22 Oct 2025 14:08:54 -0400</pubDate>
+        
+        <guid>http://localhost:1313/p/the-thoughts-9/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>生气！</title>
         <link>http://localhost:1313/p/the-thoughts-8/</link>
         <pubDate>Tue, 21 Oct 2025 13:08:00 -0400</pubDate>
@@ -23,13 +31,13 @@
 }
 .loop-integral {
   font-family: &#34;Source Han Serif&#34;, &#34;STIXGeneral&#34;, serif;
-  font-size: 50vw;       /* 超大！可改成 15vw 或 200px 等 */
+  font-size: 15vw;       /* 超大！可改成 15vw 或 200px 等 */
   line-height: 0.9;
   letter-spacing: -0.05em;
 }
 &lt;/style&gt;
 &lt;div class=&#34;loop-integral-wrap&#34;&gt;
-  &lt;div class=&#34;loop-integral&#34;&gt;生气！&lt;/div&gt;
+  &lt;div class=&#34;loop-integral&#34;&gt;生氣！&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;于是突然想明白一些事情。非常生气。&lt;/p&gt;
 &lt;p&gt;只愿意憎恨一些人了。&lt;/p&gt;
