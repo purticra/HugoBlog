@@ -5,20 +5,26 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-22T14:08:54-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/the-thoughts-9/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-10-22T14:08:54-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-10-22T14:08:54-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-10-21T13:08:00-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-10-21T13:08:00-04:00</lastmod>
+    <lastmod>2025-10-22T14:08:54-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E5%A4%A7%E5%AD%A6/</loc>
-    <lastmod>2025-10-21T13:08:00-04:00</lastmod>
+    <lastmod>2025-10-22T14:08:54-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%95%85%E4%BA%8B/</loc>
+    <lastmod>2025-10-22T14:08:54-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/the-thoughts-9/</loc>
+    <lastmod>2025-10-22T14:08:54-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2025-10-22T14:08:54-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/%E5%8F%91%E7%96%AF/</loc>
     <lastmod>2025-10-21T13:08:00-04:00</lastmod>
@@ -26,13 +32,7 @@
     <loc>http://localhost:1313/p/the-thoughts-8/</loc>
     <lastmod>2025-10-21T13:08:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%95%85%E4%BA%8B/</loc>
-    <lastmod>2025-10-21T10:00:00-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/p/the-thoughts-7/</loc>
-    <lastmod>2025-10-21T10:00:00-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2025-10-21T10:00:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/p/the-thoughts-6/</loc>
@@ -103,6 +103,8 @@
   </url><url>
     <loc>http://localhost:1313/p/the-story-1/</loc>
     <lastmod>2025-10-09T10:26:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/en/inta1200/inta-1200/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url><url>

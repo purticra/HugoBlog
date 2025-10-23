@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on RupricaT</title>
+        <link>http://localhost:1313/en/page/</link>
+        <description>Recent content in Pages on RupricaT</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>@purticra</copyright>
+        <lastBuildDate>Thu, 09 Oct 2025 12:17:32 -0400</lastBuildDate><atom:link href="http://localhost:1313/en/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Archives</title>
+        <link>http://localhost:1313/en/archives/</link>
+        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>http://localhost:1313/en/about/</link>
+        <pubDate>Mon, 06 Oct 2025 12:00:00 -0400</pubDate>
+        
+        <guid>http://localhost:1313/en/about/</guid>
+        <description>&lt;p&gt;Welcome, welcome.&lt;/p&gt;
+&lt;p&gt;I’m not sure what kind of invitation brought you here — whether you came by chance or intention, the rocky shore will look just the same.&lt;/p&gt;
+&lt;p&gt;I had planned to make this a record of a competitive professional journey, but my mind is too cluttered with thoughts. So, for now, let’s treat this place as a temporary storage.&lt;/p&gt;
+&lt;p&gt;It will continue to grow.&lt;/p&gt;
+&lt;p&gt;purticra @ RupricaT&lt;/p&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+	&lt;img src=&#34;image.gif&#34; alt=&#34;pic&#34;&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>External Links</title>
+        <link>http://localhost:1313/en/link/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/link/</guid>
+        <description>&lt;p&gt;Click as you like.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:1313/en/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

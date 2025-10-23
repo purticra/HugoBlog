@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-22T14:08:54-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,14 +15,8 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
-    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/archives/</loc>
-    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-10-06T18:15:44+00:00</lastmod>
+    <lastmod>2025-10-22T14:08:54-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -35,10 +29,10 @@
                 />
   </url><url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-10-06T18:15:44+00:00</lastmod>
+    <lastmod>2025-10-22T14:08:54-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-10-06T18:15:44+00:00</lastmod>
+    <lastmod>2025-10-22T14:08:54-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -51,40 +45,147 @@
                 />
   </url><url>
     <loc>http://localhost:1313/tags/%E5%A4%A7%E5%AD%A6/</loc>
-    <lastmod>2025-10-06T18:15:44+00:00</lastmod>
+    <lastmod>2025-10-22T14:08:54-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/%E5%8F%96%E4%BB%80%E4%B9%88%E6%A0%87%E9%A2%98%E5%A5%BD/</loc>
-    <lastmod>2025-10-06T18:15:44+00:00</lastmod>
+    <loc>http://localhost:1313/tags/%E6%95%85%E4%BA%8B/</loc>
+    <lastmod>2025-10-22T14:08:54-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/the-thoughts-9/</loc>
+    <lastmod>2025-10-22T14:08:54-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2025-10-06T18:15:44+00:00</lastmod>
+    <lastmod>2025-10-22T14:08:54-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>http://localhost:1313/categories/%E5%8F%91%E7%96%AF/</loc>
+    <lastmod>2025-10-21T13:08:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/the-thoughts-8/</loc>
+    <lastmod>2025-10-21T13:08:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/the-thoughts-7/</loc>
+    <lastmod>2025-10-21T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/the-thoughts-6/</loc>
+    <lastmod>2025-10-16T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/the-thoughts-5/</loc>
+    <lastmod>2025-10-14T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/the-thoughts-4/</loc>
+    <lastmod>2025-10-13T21:28:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/the-thoughts-3/</loc>
+    <lastmod>2025-10-13T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/fuck-phys-2212/</loc>
+    <lastmod>2025-10-12T22:50:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E7%94%9F%E6%B4%BB%E7%BB%8F%E9%AA%8C/</loc>
+    <lastmod>2025-10-12T22:50:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/firework-finale/</loc>
+    <lastmod>2025-10-11T22:00:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/</loc>
+    <lastmod>2025-10-08T23:51:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/arknights-1/</loc>
+    <lastmod>2025-10-08T23:51:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/caffeine-superman/</loc>
+    <lastmod>2025-10-08T09:25:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%8D%AF%E7%89%A9%E4%BD%BF%E7%94%A8/</loc>
+    <lastmod>2025-10-08T09:25:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/</loc>
+    <lastmod>2025-10-09T12:17:32-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/page/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2025-10-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/archives/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/p/the-thoughts-2/</loc>
+    <lastmod>2025-10-06T18:15:44-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-10-09T12:17:32-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/about/"
+                />
   </url><url>
     <loc>http://localhost:1313/p/the-thoughts-1/</loc>
-    <lastmod>2025-10-05T02:10:48+00:00</lastmod>
+    <lastmod>2025-10-05T02:10:48-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/ib/</loc>
-    <lastmod>2024-06-06T13:16:27+00:00</lastmod>
+    <lastmod>2024-06-06T13:16:27+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/p/ib-chem/</loc>
-    <lastmod>2024-06-06T13:16:27+00:00</lastmod>
+    <lastmod>2024-06-06T13:16:27+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/p/ib-geo/</loc>
-    <lastmod>2024-06-06T13:16:27+00:00</lastmod>
+    <lastmod>2024-06-06T13:16:27+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E9%81%97%E4%BA%A7/</loc>
-    <lastmod>2024-06-06T13:16:27+00:00</lastmod>
+    <lastmod>2025-10-09T10:26:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/p/chinese-io/</loc>
-    <lastmod>2024-05-31T10:46:12+00:00</lastmod>
+    <lastmod>2024-05-31T10:46:12+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/p/first-post/</loc>
-    <lastmod>2024-05-23T18:24:43+00:00</lastmod>
+    <lastmod>2024-05-23T18:24:43+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/the-story-1/</loc>
+    <lastmod>2025-10-09T10:26:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/search/"
+                />
   </url><url>
     <loc>http://localhost:1313/link/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/link/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/link/"
+                />
   </url>
 </urlset>

@@ -7,21 +7,21 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>@purticra</copyright>
-        <lastBuildDate>Tue, 21 Oct 2025 13:08:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 22 Oct 2025 14:08:54 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>杂谈</title>
+        <link>http://localhost:1313/categories/%E6%9D%82%E8%B0%88/</link>
+        <pubDate>Wed, 22 Oct 2025 14:08:54 -0400</pubDate>
+        
+        <guid>http://localhost:1313/categories/%E6%9D%82%E8%B0%88/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/%E6%9D%82%E8%B0%88/image.jpg" alt="Featured image of post 杂谈" /&gt;</description>
+        </item>
+        <item>
         <title>发疯</title>
         <link>http://localhost:1313/categories/%E5%8F%91%E7%96%AF/</link>
         <pubDate>Tue, 21 Oct 2025 13:08:00 -0400</pubDate>
         
         <guid>http://localhost:1313/categories/%E5%8F%91%E7%96%AF/</guid>
         <description>&lt;img src="http://localhost:1313/categories/%E5%8F%91%E7%96%AF/image.jpg" alt="Featured image of post 发疯" /&gt;</description>
-        </item>
-        <item>
-        <title>杂谈</title>
-        <link>http://localhost:1313/categories/%E6%9D%82%E8%B0%88/</link>
-        <pubDate>Tue, 21 Oct 2025 09:38:00 -0400</pubDate>
-        
-        <guid>http://localhost:1313/categories/%E6%9D%82%E8%B0%88/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/%E6%9D%82%E8%B0%88/image.jpg" alt="Featured image of post 杂谈" /&gt;</description>
         </item>
         <item>
         <title>IB</title>
