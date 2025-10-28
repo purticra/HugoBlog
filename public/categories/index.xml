@@ -7,10 +7,18 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>@purticra</copyright>
-        <lastBuildDate>Sun, 26 Oct 2025 14:37:26 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 Oct 2025 09:56:15 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GT</title>
+        <link>http://localhost:1313/categories/gt/</link>
+        <pubDate>Tue, 28 Oct 2025 09:56:15 -0400</pubDate>
+        
+        <guid>http://localhost:1313/categories/gt/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>杂谈</title>
         <link>http://localhost:1313/categories/%E6%9D%82%E8%B0%88/</link>
-        <pubDate>Sun, 26 Oct 2025 14:37:26 -0400</pubDate>
+        <pubDate>Tue, 28 Oct 2025 09:43:13 -0400</pubDate>
         
         <guid>http://localhost:1313/categories/%E6%9D%82%E8%B0%88/</guid>
         <description>&lt;img src="http://localhost:1313/categories/%E6%9D%82%E8%B0%88/image.jpg" alt="Featured image of post 杂谈" /&gt;</description>
