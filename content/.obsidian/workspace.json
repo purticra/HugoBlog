@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/杂谈/the-thoughts-17/index.md",
+                "file": "post/杂谈/the-thoughts-19/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a09b8f0945975634",
@@ -171,8 +172,12 @@
   },
   "active": "73b018fdf19ab8c8",
   "lastOpenFiles": [
-    "_index.md",
+    "post/杂谈/the-thoughts-18/index.md",
+    "post/杂谈/the-thoughts-19/index.md",
+    "post/杂谈/the-thoughts-19",
     "post/杂谈/the-thoughts-17/index.md",
+    "post/杂谈/the-thoughts-18",
+    "_index.md",
     "post/杂谈/the-thoughts-6/index.md",
     "post/杂谈/the-thoughts-5/index.md",
     "post/杂谈/the-thoughts-4/index.md",
