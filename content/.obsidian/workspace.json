@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/杂谈/the-thoughts-20/index.md",
+                "file": "post/向死而行的道路上/p0/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a09b8f0945975634",
@@ -172,26 +171,35 @@
   },
   "active": "73b018fdf19ab8c8",
   "lastOpenFiles": [
-    "post/杂谈/the-thoughts-19/index.md",
+    "_index.md",
+    "categories/向死而行的道路上/_index.md",
+    "post/向死而行的道路上/p4/index.md",
+    "post/向死而行的道路上/p3/index.md",
+    "post/向死而行的道路上/p2/index.md",
+    "post/向死而行的道路上/p1/index.md",
+    "categories/杂谈/_index.md",
+    "categories/向死而行的道路上",
+    "post/向死而行的道路上/p0/index.md",
+    "post/向死而行的道路上/p0",
     "post/杂谈/the-thoughts-20/index.md",
+    "post/向死而行的道路上/p5/index.md",
+    "post/向死而行的道路上/p5",
+    "post/向死而行的道路上/p4",
+    "post/向死而行的道路上/p3",
+    "post/向死而行的道路上/p2",
+    "post/向死而行的道路上/p1",
+    "post/向死而行的道路上",
+    "post/杂谈/the-thoughts-19/index.md",
     "post/杂谈/the-thoughts-20",
     "post/杂谈/the-thoughts-18/index.md",
     "post/杂谈/the-thoughts-19",
     "post/杂谈/the-thoughts-17/index.md",
-    "post/杂谈/the-thoughts-18",
-    "_index.md",
     "post/杂谈/the-thoughts-6/index.md",
     "post/杂谈/the-thoughts-5/index.md",
     "post/杂谈/the-thoughts-4/index.md",
     "post/杂谈/the-thoughts-16/index.md",
     "post/杂谈/the-thoughts-15/index.md",
     "post/杂谈/the-thoughts-14/index.md",
-    "post/杂谈/the-thoughts-13/index.md",
-    "post/杂谈/the-thoughts-14",
-    "未命名.base",
-    "未命名 4.base",
-    "未命名 3.base",
-    "未命名 2.base",
-    "未命名 1.base"
+    "post/杂谈/the-thoughts-13/index.md"
   ]
 }
