@@ -1,5 +1,5 @@
 ---
-title: 流动着的生命和依然死了许久的外壳
+title: 流动着的生命和已然死了许久的外壳
 slug: the-thoughts-21
 description: 咖啡因！砰砰砰砰！
 date: 2025-11-19T00:25:47-05:00
