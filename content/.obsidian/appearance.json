@@ -1,5 +1,7 @@
 {
   "cssTheme": "Minimal",
   "interfaceFontFamily": "更纱黑体 SC",
-  "textFontFamily": "更纱黑体 SC"
+  "textFontFamily": "更纱黑体 SC",
+  "baseFontSize": 12,
+  "baseFontSizeAction": true
 }

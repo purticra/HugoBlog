@@ -1,16 +1,19 @@
 // ====== 配置区 ======
-const SHEETDB_API_URL = "https://sheetdb.io/api/v1/42l4qrr2ds9o1"; // ← 改成你的 SheetDB API URL
+const SHEETDB_API_URL = "https://sheetdb.io/api/v1/42l4qrr2ds9o1";
+// 允许重新记录的间隔时间（毫秒） 2 小时 = 2 * 60 * 60 * 1000
+const RELOG_INTERVAL = 2 * 60 * 60 * 1000;
 // ===================
 
 // 发送数据到 SheetDB
 async function sendToSheetDB(data) {
   try {
-    await fetch(SHEETDB_API_URL, {
+    const res = await fetch(SHEETDB_API_URL, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ data: [data] })
     });
-    console.log("✅ 访客信息已上传：", data);
+    const result = await res.json();
+    console.log("✅ SheetDB 返回：", result);
   } catch (err) {
     console.error("❌ 上传失败:", err);
   }
@@ -27,10 +30,8 @@ function getGeoByBrowser() {
     navigator.geolocation.getCurrentPosition(
       (position) => {
         resolve({
-          source: "browser",
           latitude: position.coords.latitude,
           longitude: position.coords.longitude,
-          accuracy: position.coords.accuracy,
         });
       },
       (error) => {
@@ -51,7 +52,6 @@ async function getGeoByIP() {
     const res = await fetch("https://ipapi.co/json/");
     const info = await res.json();
     return {
-      source: "ipapi",
       ip: info.ip,
       city: info.city,
       region: info.region,
@@ -67,9 +67,12 @@ async function getGeoByIP() {
 
 // 主逻辑
 (async function () {
-  // 避免重复记录：本地只记录一次
-  if (localStorage.getItem("visitorLogged")) {
-    console.log("🚫 已记录过访客信息，跳过。");
+  const lastLogged = localStorage.getItem("visitorLastLogged");
+  const now = Date.now();
+
+  if (lastLogged && now - parseInt(lastLogged) < RELOG_INTERVAL) {
+    const minutesLeft = Math.ceil((RELOG_INTERVAL - (now - parseInt(lastLogged))) / 60000);
+    console.log(`🚫 距离下次可记录还有 ${minutesLeft} 分钟。`);
     return;
   }
 
@@ -94,9 +97,16 @@ async function getGeoByIP() {
 
   const data = {
     timestamp: new Date().toISOString(),
-    ...locationData
+    ip: locationData.ip || "",
+    city: locationData.city || "",
+    region: locationData.region || "",
+    country: locationData.country || "",
+    latitude: locationData.latitude,
+    longitude: locationData.longitude,
   };
 
   await sendToSheetDB(data);
-  localStorage.setItem("visitorLogged", "true");
+
+  // ✅ 记录当前时间戳，下次 2 小时后才可再次上传
+  localStorage.setItem("visitorLastLogged", now.toString());
 })();
