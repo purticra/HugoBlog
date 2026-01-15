@@ -13,12 +13,14 @@
         <pubDate>Tue, 28 Oct 2025 09:56:15 -0400</pubDate>
         
         <guid>http://localhost:1313/p/inta1200/</guid>
-        <description>&lt;p&gt;这里收录由Jason Rich教授提供的INTA1200课程的学习资料。&lt;/p&gt;
-&lt;p&gt;Supplementary Material of INTA1200 (Professor Jason Rich).&lt;/p&gt;
+        <description>&lt;p&gt;这里收录由&lt;a class=&#34;link&#34; href=&#34;https://inta.gatech.edu/people/person/jason-rich&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Jason Rich&lt;/a&gt;教授的INTA1200课程学习资料。&lt;/p&gt;
+&lt;p&gt;Supplementary Material of INTA1200 (Professor &lt;a class=&#34;link&#34; href=&#34;https://inta.gatech.edu/people/person/jason-rich&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Jason Rich&lt;/a&gt;).&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/documents/GT/INTA1200/INTA1200_Part_1.pdf&#34; &gt;INTA1200 Part 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/documents/GT/INTA1200/INTA1200_Part_2.pdf&#34; &gt;INTA1200 Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/documents/GT/INTA1200/Notes_of_INTA_1200.pdf&#34; &gt;INTA1200&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;{{&amp;lt; embed-pdf url=&amp;quot;/documents/GT/INTA1200/Notes_of_INTA_1200.pdf&amp;quot;&amp;gt;}}&lt;/p&gt;
 </description>
         </item>
         

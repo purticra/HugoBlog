@@ -16,3 +16,11 @@ tags:
 Supplementary Material of INTA1200 (Professor [Jason Rich](https://inta.gatech.edu/people/person/jason-rich)).
 
 1. [INTA1200](/documents/GT/INTA1200/Notes_of_INTA_1200.pdf)
+
+<div style="resize: vertical; overflow: auto; border: 2px solid #ccc; border-radius: 4px; width: 100%; height: 80vh; min-height: 400px;">
+    <iframe src="/documents/GT/INTA1200/Notes_of_INTA_1200.pdf#toolbar=0" 
+            width="100%" 
+            height="100%"
+            style="border: none;">
+    </iframe>
+</div>
