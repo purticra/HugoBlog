@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>@purticra</copyright>
-        <lastBuildDate>Sat, 27 Dec 2025 23:12:25 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 25 Jan 2026 20:48:36 -0500</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>萝卜太克骇客马拉松后记（RoboTech Hackathon 2026）</title>
+        <link>http://localhost:1313/p/robotech-hackathon-2026/</link>
+        <pubDate>Sun, 25 Jan 2026 20:48:36 -0500</pubDate>
+        
+        <guid>http://localhost:1313/p/robotech-hackathon-2026/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>吃到偏梨</title>
         <link>http://localhost:1313/p/the-thoughts-26/</link>
         <pubDate>Sat, 27 Dec 2025 23:12:25 +0800</pubDate>
@@ -325,8 +333,13 @@
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/documents/GT/INTA1200/Notes_of_INTA_1200.pdf&#34; &gt;INTA1200&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;{{&amp;lt; embed-pdf url=&amp;quot;/documents/GT/INTA1200/Notes_of_INTA_1200.pdf&amp;quot;&amp;gt;}}&lt;/p&gt;
-</description>
+&lt;div style=&#34;resize: vertical; overflow: hidden; border: 2px solid #ccc; border-radius: 4px; width: 100%; height: calc(100vh - 150px); min-height: 400px;&#34;&gt;
+    &lt;iframe src=&#34;http://localhost:1313/documents/GT/INTA1200/Notes_of_INTA_1200.pdf#toolbar=0&#34; 
+            width=&#34;100%&#34; 
+            height=&#34;100%&#34;
+            style=&#34;border: none;&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;</description>
         </item>
         <item>
         <title>颠颠的。</title>

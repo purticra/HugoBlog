@@ -7,7 +7,22 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>@purticra</copyright>
-        <lastBuildDate>Sat, 27 Dec 2025 23:12:25 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 25 Jan 2026 20:48:36 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>萝卜太克骇客马拉松后记（RoboTech Hackathon 2026）</title>
+        <link>http://localhost:1313/p/robotech-hackathon-2026/</link>
+        <pubDate>Sun, 25 Jan 2026 20:48:36 -0500</pubDate>
+        
+        <guid>http://localhost:1313/p/robotech-hackathon-2026/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;受到一些人的指示无论如何也要在这个时候坐下来写写东西，所以再一次打开了许久未见的老文本编辑器。盯着天花板上的光晕，探向没那么明晰的内心，居然觉得一个月前自己写下的文字使人觉得那么陌生，只能感叹感叹有些人还是不幸而准确地言中了一些事情。&lt;/p&gt;
+&lt;p&gt;因为初入佐治亚理工的第一个学期实在是有些无聊，被水课、一地鸡毛的招聘会和忙了半天也没个结果的进组计划填满的破学期大概确实会让人觉得着急上火，遂开始毫无目的地在被宣传邮件塞满的电子邮箱里试图找些事情干。不经意时给自己的春季学期开学埋了俩雷，&lt;a class=&#34;link&#34; href=&#34;https://inventureprize.gatech.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Inventure Prize&lt;/a&gt;和&lt;a class=&#34;link&#34; href=&#34;https://robotech-2026.devpost.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Robotech Hackathon&lt;/a&gt;。直到现在坐下来才反应过来自己确实经历了些了不得的事情。&lt;/p&gt;
+&lt;p&gt;有一说一，我没那么想在这儿写那么技术化的话题，但是感觉已经没那么别扭的自己也不会写下那些莫名其妙的文字了，所以让我们开始吧。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;一场鏖战。&lt;/strong&gt; 在这三十六个小时里，用&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>吃到偏梨</title>
         <link>http://localhost:1313/p/the-thoughts-26/</link>
         <pubDate>Sat, 27 Dec 2025 23:12:25 +0800</pubDate>
@@ -325,7 +340,7 @@
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/documents/GT/INTA1200/Notes_of_INTA_1200.pdf&#34; &gt;INTA1200&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;div style=&#34;resize: vertical; overflow: auto; border: 2px solid #ccc; border-radius: 4px; width: 100%; height: 80vh; min-height: 400px;&#34;&gt;
+&lt;div style=&#34;resize: vertical; overflow: hidden; border: 2px solid #ccc; border-radius: 4px; width: 100%; height: calc(100vh - 150px); min-height: 400px;&#34;&gt;
     &lt;iframe src=&#34;http://localhost:1313/documents/GT/INTA1200/Notes_of_INTA_1200.pdf#toolbar=0&#34; 
             width=&#34;100%&#34; 
             height=&#34;100%&#34;

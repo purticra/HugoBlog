@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7202f76645d8a2ce",
+        "id": "acf76b6cf7df11c2",
         "type": "tabs",
         "children": [
           {
-            "id": "355c21fbd00d8c0f",
+            "id": "2ae734894462b44c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/GT/INTA1200/index.md",
+                "file": "post/杂谈/Robotech-hackathon-2026/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a09b8f0945975634",
@@ -169,16 +170,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "355c21fbd00d8c0f",
+  "active": "2ae734894462b44c",
   "lastOpenFiles": [
-    "Notes_of_INTA_1200.pdf",
+    "post/杂谈/birthday-2025/index.md",
+    "post/杂谈/the-thoughts-26/index.md",
+    "post/杂谈/Robotech-hackathon-2026/index.md",
     "post/GT/INTA1200/index.md",
+    "post/杂谈/Robotech-hackathon-2026",
+    "Notes_of_INTA_1200.pdf",
     "documents/GT/INTA1200/INTA1200_Part_1.pdf.md",
     "documents/GT/INTA1200",
     "documents/GT",
     "documents",
-    "post/杂谈/the-thoughts-26/index.md",
-    "post/杂谈/birthday-2025/index.md",
     "post/杂谈/the-thoughts-26",
     "post/杂谈/the-thoughts-25/index.md",
     "post/杂谈/birthday-2025",
@@ -190,7 +193,6 @@
     "post/杂谈/the-thoughts-22/index.md",
     "post/杂谈/the-thoughts-23",
     "post/杂谈/杂谈/the-thoughts-23/index.md",
-    "post/杂谈/杂谈/the-thoughts-23",
     "杂谈/the-thoughts-23/index.md",
     "post/杂谈/the-thoughts-21/index.md",
     "post/杂谈/the-thoughts-19/index.md",

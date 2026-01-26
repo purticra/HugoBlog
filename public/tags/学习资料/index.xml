@@ -20,8 +20,13 @@
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/documents/GT/INTA1200/Notes_of_INTA_1200.pdf&#34; &gt;INTA1200&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;{{&amp;lt; embed-pdf url=&amp;quot;/documents/GT/INTA1200/Notes_of_INTA_1200.pdf&amp;quot;&amp;gt;}}&lt;/p&gt;
-</description>
+&lt;div style=&#34;resize: vertical; overflow: hidden; border: 2px solid #ccc; border-radius: 4px; width: 100%; height: calc(100vh - 150px); min-height: 400px;&#34;&gt;
+    &lt;iframe src=&#34;http://localhost:1313/documents/GT/INTA1200/Notes_of_INTA_1200.pdf#toolbar=0&#34; 
+            width=&#34;100%&#34; 
+            height=&#34;100%&#34;
+            style=&#34;border: none;&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;</description>
         </item>
         
     </channel>
