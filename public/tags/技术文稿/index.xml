@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>技术文稿 on RupricaT</title>
+        <link>http://localhost:1313/tags/%E6%8A%80%E6%9C%AF%E6%96%87%E7%A8%BF/</link>
+        <description>Recent content in 技术文稿 on RupricaT</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>@purticra</copyright>
+        <lastBuildDate>Fri, 30 Jan 2026 00:32:58 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%8A%80%E6%9C%AF%E6%96%87%E7%A8%BF/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>博客站已迁移至vercel</title>
+        <link>http://localhost:1313/p/switch-to-vercel/</link>
+        <pubDate>Fri, 30 Jan 2026 00:32:58 -0500</pubDate>
+        
+        <guid>http://localhost:1313/p/switch-to-vercel/</guid>
+        <description>&lt;p&gt;本博客站已经由Github Pages转移到Vercel部署，部分地区的连接性可能波动，连接不稳定时建议适当切换网络环境。&lt;/p&gt;
+&lt;p&gt;主站域名：&lt;a class=&#34;link&#34; href=&#34;journal.purticra.icu&#34; &gt;journal.purticra.icu&lt;/a&gt;
+备用域名：&lt;a class=&#34;link&#34; href=&#34;purticra.vercel.app&#34; &gt;purticra.vercel.app&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;说来也是糟糕，马上又要到新一年的招聘季，大概正儿八经的个人网站之类的还是要做的。毕竟给招聘官看一堆莫名其妙的碎碎念还是太过糟糕，不如重新另起炉灶腾腾地方。&lt;/p&gt;
+&lt;p&gt;Github Pages因为其和技术的强相关性大概确实成为了必须被替代的对象，本次迁移只是简简单单Import了个仓库到vercel并改了改DNS记录，挑了一个大半夜没啥用户的时间点应该没对连接性造成什么可感知的影响。&lt;/p&gt;
+&lt;p&gt;得了，待真正的求职个人网站搭建完成必会在这里发出邀约请诸位参观。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;purticra @ RupricaT&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

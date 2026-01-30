@@ -7,13 +7,43 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>@purticra</copyright>
-        <lastBuildDate>Sun, 25 Jan 2026 20:48:36 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%95%85%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Jan 2026 23:59:41 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%95%85%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>晚场壶茶</title>
+        <link>http://localhost:1313/p/the-thoughts-27/</link>
+        <pubDate>Thu, 29 Jan 2026 23:59:41 -0500</pubDate>
+        
+        <guid>http://localhost:1313/p/the-thoughts-27/</guid>
+        <description>&lt;p&gt;半夜一点半从它处回到住处，蹑手蹑脚地推开卧室门，休息室里的派对却照样没有结束里面的吠声和聒噪。按灭室友留的小灯，刺穿门缝的呼号打断黑暗里平静的呼吸声，我的努力又成了莫名的徒劳。&lt;/p&gt;
+&lt;p&gt;收拾完脸上的死角，停顿下来收拾收拾心里的这些死角。被不同的人际关系割裂着的我的生命啊，为什么还在千篇一律地冲着我耍花招呢。失掉了感情，输掉了欲望，删掉了思考，死掉了灵魂。呼吸着只为了让那些数字再变得诱人一点，让方框里的红勾更刺眼一点。像这样不为什么前进着而已。慢慢融进我所讨厌的环境而已。&lt;/p&gt;
+&lt;p&gt;爱慕和憎恨不需要什么时间来转换，而憎恨也没有什么能够溶解。反反复复刷洗的那件纱衣，照样还是那样沾着迸溅的污物。梦里的身影让我感到困惑——为什么是你？为什么不是镜中的自己？为什么不是我所珍爱的自己？&lt;/p&gt;
+&lt;p&gt;就这样闭上眼睛，无谓地滚下高台，背着手倒在石砖路上。任凭寒风欺凌稀疏的头发，泥沙嵌进指甲，闻不到春天的花。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;purticra @ RupricaT&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>萝卜太克骇客马拉松后记（RoboTech Hackathon 2026）</title>
         <link>http://localhost:1313/p/robotech-hackathon-2026/</link>
         <pubDate>Sun, 25 Jan 2026 20:48:36 -0500</pubDate>
         
         <guid>http://localhost:1313/p/robotech-hackathon-2026/</guid>
-        <description></description>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;受到一些人的指示无论如何也要在这个时候坐下来写写东西，所以再一次打开了许久未见的老文本编辑器。盯着天花板上的光晕，探向没那么明晰的内心，居然觉得一个月前自己写下的文字使人觉得那么陌生，只能感叹感叹有些人还是不幸而准确地言中了一些事情。&lt;/p&gt;
+&lt;p&gt;因为初入佐治亚理工的第一个学期实在是有些无聊，被水课、一地鸡毛的招聘会和忙了半天也没个结果的进组计划填满的破学期大概确实会让人觉得着急上火，遂开始毫无目的地在被宣传邮件塞满的电子邮箱里试图找些事情干。不经意时给自己的春季学期开学埋了俩雷，&lt;a class=&#34;link&#34; href=&#34;https://inventureprize.gatech.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Inventure Prize&lt;/a&gt;和&lt;a class=&#34;link&#34; href=&#34;https://robotech-2026.devpost.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Robotech Hackathon&lt;/a&gt;。直到现在坐下来才反应过来自己确实经历了些了不得的事情。&lt;/p&gt;
+&lt;p&gt;有一说一，我没那么想在这儿写那么技术化的话题，但是感觉已经没那么别扭的自己也不会写下那些莫名其妙的文字了，所以让我们开始吧。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;一场鏖战。&lt;/strong&gt; 在三十六个小时里，投进&lt;a class=&#34;link&#34; href=&#34;https://formlabs.com/store/materials/tough-2000-resin/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Tough 2000&lt;/a&gt;、姿态控制、ISO螺栓和通信总线的洋流之中，将手上酥脆有味的材料攒成异星载具。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这比赛有力气！&lt;/strong&gt; 由&lt;a class=&#34;link&#34; href=&#34;https://www.ieee.gatech.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GT IEEE&lt;/a&gt;主办的这场骇客马拉松，虽然算不上什么高等级的赛事，却是自己在这种爆发型开发比赛中的初试。虽然撞上北下寒潮和冻雨的猛击，没人因为恶劣天气而退缩。比赛大体照常进行，拉上身怀绝技的队友组成四人小队之超高速大蟑螂，开始下潜！&lt;/p&gt;
+&lt;p&gt;计划是手搓一对子母车。&lt;strong&gt;母鸡卡是一只狗&lt;/strong&gt;，子机卡是一辆车。狗衔狗崽如同钓鱼佬钓鲈鱼，附带无线控制器和弹射装置。六八主操大部机械设计，三六九以电赋机械以活力，三六二六以算法赋电机以灵力，三三零兼修通信、交互界面和项目展示。技术细节欢迎移步&lt;a class=&#34;link&#34; href=&#34;https://devpost.com/software/moonline&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DevPost&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;只能说和高技术力队友合作还是太舒爽了，大有可以完全背对背战斗的信任。比赛确实是高压锅但也得承认这炖出来的汤也香的很。干下这罐Lidl Diet Cola，我还能用Fusion360再画六个小时的CAD模。&lt;/p&gt;
+&lt;p&gt;快速构思快速建模快速打样快速切割快速焊接快速装配快速调试快速撰写脚本快速拍摄分镜快速剪辑快速导出快速上传，有时候还挺震撼几个毛头大一小崽子能搓出来这东西。累但是好玩，&lt;strong&gt;这比赛有格调&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;第二天早晨提交项目猛猛补觉六小时，醒来收到意外之喜之成功夺得赛道冠军，喜提一千大刀乐。谢谢永远靠谱揽大局的首席电工三六九，谢谢提供母鸡设计方案并撬开makerspace大门的首席门卫三六二六，谢谢在乘员组昏迷时清醒地剪辑视频提交的三三零。&lt;/p&gt;
+&lt;p&gt;：这小车真好玩。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;purticra @ RupricaT&lt;/em&gt;&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>吃到偏梨</title>

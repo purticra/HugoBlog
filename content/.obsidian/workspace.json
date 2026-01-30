@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/技术/switch-to-vercel/index.md",
+                "file": "categories/技术/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "_index"
             }
           }
         ]
@@ -171,8 +171,14 @@
   },
   "active": "2ae734894462b44c",
   "lastOpenFiles": [
-    "post/杂谈/the-thoughts-27/index.md",
+    "categories/杂谈/_index.md",
+    "categories/杂谈/image.jpg",
+    "categories/技术/_index.md",
+    "categories/向死而行的道路上/_index.md",
     "post/技术/switch-to-vercel/index.md",
+    "categories/技术",
+    "categories/未命名.md",
+    "post/杂谈/the-thoughts-27/index.md",
     "post/技术/switch-to-vercel",
     "post/技术",
     "post/杂谈/Robotech-hackathon-2026/index.md",
@@ -188,7 +194,6 @@
     "documents",
     "post/杂谈/the-thoughts-26",
     "post/杂谈/the-thoughts-25/index.md",
-    "post/杂谈/birthday-2025",
     "post/杂谈/the-story-1/index.md",
     "post/杂谈/the-thoughts-24/index.md",
     "post/杂谈/the-thoughts-23/index.md",
@@ -199,13 +204,9 @@
     "post/杂谈/the-thoughts-19/index.md",
     "post/向死而行的道路上/p0/index.md",
     "_index.md",
-    "categories/向死而行的道路上/_index.md",
     "post/向死而行的道路上/p4/index.md",
     "post/向死而行的道路上/p3/index.md",
     "post/向死而行的道路上/p2/index.md",
-    "post/向死而行的道路上/p1/index.md",
-    "categories/杂谈/_index.md",
-    "post/杂谈/the-thoughts-20/index.md",
-    "post/向死而行的道路上/p5/index.md"
+    "post/向死而行的道路上/p1/index.md"
   ]
 }
