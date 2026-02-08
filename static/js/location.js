@@ -20,31 +20,31 @@ async function sendToSheetDB(data) {
 }
 
 // 获取浏览器定位（需要用户授权）
-function getGeoByBrowser() {
-  return new Promise((resolve, reject) => {
-    if (!navigator.geolocation) {
-      reject("浏览器不支持地理定位");
-      return;
-    }
+// function getGeoByBrowser() {
+  // return new Promise((resolve, reject) => {
+    // if (!navigator.geolocation) {
+      // reject("浏览器不支持地理定位");
+      // return;
+    // }
 
-    navigator.geolocation.getCurrentPosition(
-      (position) => {
-        resolve({
-          latitude: position.coords.latitude,
-          longitude: position.coords.longitude,
-        });
-      },
-      (error) => {
-        reject(error.message);
-      },
-      {
-        enableHighAccuracy: true,
-        timeout: 10000,
-        maximumAge: 0,
-      }
-    );
-  });
-}
+    // navigator.geolocation.getCurrentPosition(
+      // (position) => {
+        // resolve({
+          // latitude: position.coords.latitude,
+          // longitude: position.coords.longitude,
+        // });
+      // },
+      // (error) => {
+        // reject(error.message);
+      // },
+      // {
+        // enableHighAccuracy: true,
+        // timeout: 10000,
+        // maximumAge: 0,
+      // }
+    // );
+  // });
+// }
 
 // 获取 IP 定位（不需要授权）
 async function getGeoByIP() {
