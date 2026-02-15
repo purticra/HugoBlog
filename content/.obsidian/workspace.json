@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/杂谈/the-thoughts-30/index.md",
+                "file": "post/杂谈/the-thoughts-31/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,6 +171,9 @@
   },
   "active": "2ae734894462b44c",
   "lastOpenFiles": [
+    "post/杂谈/the-thoughts-31/index.md",
+    "post/杂谈/the-thoughts-30/index.md",
+    "post/杂谈/the-thoughts-31",
     "post/杂谈/the-thoughts-29/index.md",
     "post/杂谈/the-thoughts-28/index.md",
     "post/技术/switch-to-vercel/index.md",
@@ -194,7 +197,6 @@
     "documents/GT/INTA1200/INTA1200_Part_1.pdf.md",
     "documents/GT/INTA1200",
     "documents/GT",
-    "documents",
     "post/杂谈/the-thoughts-25/index.md",
     "post/杂谈/the-story-1/index.md",
     "post/杂谈/the-thoughts-24/index.md",
@@ -205,8 +207,6 @@
     "post/杂谈/the-thoughts-21/index.md",
     "post/杂谈/the-thoughts-19/index.md",
     "post/向死而行的道路上/p0/index.md",
-    "_index.md",
-    "post/向死而行的道路上/p4/index.md",
-    "post/向死而行的道路上/p3/index.md"
+    "_index.md"
   ]
 }
