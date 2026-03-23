@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "13186b1902c7311c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2ae734894462b44c",
+  "active": "13186b1902c7311c",
   "lastOpenFiles": [
     "post/杂谈/the-thoughts-31/index.md",
     "post/杂谈/the-thoughts-30/index.md",
