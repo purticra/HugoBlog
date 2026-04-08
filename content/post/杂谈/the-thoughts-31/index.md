@@ -13,7 +13,7 @@ tags:
 
 一早上醒来发现爱言叶V发布，一时间没有反应过来四年之期已经来到。就听着熟悉的旋律带着微微不同的走向再次来临，屏幕上还是那个熟悉的面庞。像这样大声喊着*３９*的音乐，不论是创作者还是miku自己大概都活在其中吧。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hK82hfN_ymQ?si=sw8Ob-VUV6HMIQeA&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< youtube hK82hfN_ymQ >}}
 
 真开心啊。
 
