@@ -9,6 +9,7 @@ categories:
 tags: 
   - 大学
   - 故事
+image: cover.jpg
 ---
 
 哈哈我又开始拧巴了所以欢迎回来！

@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/杂谈/the-thoughts-31/index.md",
+                "file": "post/杂谈/the-thoughts-32/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "13186b1902c7311c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,9 +169,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "13186b1902c7311c",
+  "active": "2ae734894462b44c",
   "lastOpenFiles": [
+    "未命名.base",
     "post/杂谈/the-thoughts-31/index.md",
+    "post/杂谈/the-thoughts-32/index.md",
+    "post/杂谈/the-thoughts-32",
+    "post/杂谈/the-thoughts-32/未命名.md",
     "post/杂谈/the-thoughts-30/index.md",
     "post/杂谈/the-thoughts-31",
     "post/杂谈/the-thoughts-29/index.md",
@@ -209,7 +200,6 @@
     "Notes_of_INTA_1200.pdf",
     "documents/GT/INTA1200/INTA1200_Part_1.pdf.md",
     "documents/GT/INTA1200",
-    "documents/GT",
     "post/杂谈/the-thoughts-25/index.md",
     "post/杂谈/the-story-1/index.md",
     "post/杂谈/the-thoughts-24/index.md",
@@ -217,9 +207,6 @@
     "post/杂谈/the-thoughts-22/index.md",
     "post/杂谈/杂谈/the-thoughts-23/index.md",
     "杂谈/the-thoughts-23/index.md",
-    "post/杂谈/the-thoughts-21/index.md",
-    "post/杂谈/the-thoughts-19/index.md",
-    "post/向死而行的道路上/p0/index.md",
-    "_index.md"
+    "post/杂谈/the-thoughts-21/index.md"
   ]
 }

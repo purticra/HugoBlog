@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on RupricaT</title>
-        <link>http://localhost:1313/page/</link>
+        <link>http://localhost:12344/page/</link>
         <description>Recent content in Pages on RupricaT</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>@purticra</copyright>
-        <lastBuildDate>Thu, 09 Oct 2025 12:17:32 -0400</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 09 Oct 2025 12:17:32 -0400</lastBuildDate><atom:link href="http://localhost:12344/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>归档</title>
-        <link>http://localhost:1313/archives/</link>
+        <link>http://localhost:12344/archives/</link>
         <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/archives/</guid>
+        <guid>http://localhost:12344/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>关于</title>
-        <link>http://localhost:1313/about/</link>
+        <link>http://localhost:12344/about/</link>
         <pubDate>Mon, 06 Oct 2025 12:00:00 -0400</pubDate>
         
-        <guid>http://localhost:1313/about/</guid>
+        <guid>http://localhost:12344/about/</guid>
         <description>&lt;p&gt;欢迎，欢迎。&lt;/p&gt;
 &lt;p&gt;不知道是怎样的邀请让你来到这里。不论是应邀前来还是误打误撞，这片石岸都会是这个样子。&lt;/p&gt;
 &lt;p&gt;本想把这里做成富有竞争力的职业生涯记录，但是奈何脑子里的东西实在存的太多，权且把这里当作临时的仓库。&lt;/p&gt;
@@ -32,18 +32,18 @@
         </item>
         <item>
         <title>搜索</title>
-        <link>http://localhost:1313/search/</link>
+        <link>http://localhost:12344/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/search/</guid>
+        <guid>http://localhost:12344/search/</guid>
         <description></description>
         </item>
         <item>
         <title>外链</title>
-        <link>http://localhost:1313/link/</link>
+        <link>http://localhost:12344/link/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/link/</guid>
+        <guid>http://localhost:12344/link/</guid>
         <description>&lt;p&gt;请随便点。&lt;/p&gt;
 </description>
         </item>

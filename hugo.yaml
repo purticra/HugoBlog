@@ -220,6 +220,18 @@ menu:
           params:
               icon: brand-twitter
 
+        - identifier: email
+          name: Email
+          url: mailto:purticra@163.com
+          params:
+              icon: messages
+
+        - identifier: rss
+          name: RSS
+          url: /index.xml
+          params:
+              icon: rss
+
 related:
     includeNewer: true
     threshold: 60

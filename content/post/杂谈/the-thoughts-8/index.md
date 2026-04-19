@@ -7,6 +7,7 @@ categories:
   - 发疯
 tags: 
   - 大学
+image: cover.jpg
 ---
 
 <br>
