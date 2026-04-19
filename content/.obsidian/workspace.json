@@ -13,7 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/杂谈/the-thoughts-32/index.md",
+                "file": "post/技术/rss-tutorial/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "f590d399d1783f72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "post/技术/rss-tutorial/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -21,7 +35,8 @@
               "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,11 +184,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2ae734894462b44c",
+  "active": "f590d399d1783f72",
   "lastOpenFiles": [
+    "post/技术/rss-tutorial/index.md",
+    "_index.md",
+    "categories/杂谈/_index.md",
+    "categories/杂谈/image.jpg",
+    "categories/技术/_index.md",
+    "post/杂谈/the-thoughts-32/index.md",
     "未命名.base",
     "post/杂谈/the-thoughts-31/index.md",
-    "post/杂谈/the-thoughts-32/index.md",
     "post/杂谈/the-thoughts-32",
     "post/杂谈/the-thoughts-32/未命名.md",
     "post/杂谈/the-thoughts-30/index.md",
@@ -182,9 +202,6 @@
     "post/杂谈/the-thoughts-28/index.md",
     "post/技术/switch-to-vercel/index.md",
     "post/杂谈/the-thoughts-28",
-    "categories/技术/_index.md",
-    "categories/杂谈/_index.md",
-    "categories/杂谈/image.jpg",
     "categories/向死而行的道路上/_index.md",
     "categories/技术",
     "categories/未命名.md",
@@ -199,14 +216,12 @@
     "post/杂谈/Robotech-hackathon-2026",
     "Notes_of_INTA_1200.pdf",
     "documents/GT/INTA1200/INTA1200_Part_1.pdf.md",
-    "documents/GT/INTA1200",
     "post/杂谈/the-thoughts-25/index.md",
     "post/杂谈/the-story-1/index.md",
     "post/杂谈/the-thoughts-24/index.md",
     "post/杂谈/the-thoughts-23/index.md",
     "post/杂谈/the-thoughts-22/index.md",
     "post/杂谈/杂谈/the-thoughts-23/index.md",
-    "杂谈/the-thoughts-23/index.md",
-    "post/杂谈/the-thoughts-21/index.md"
+    "杂谈/the-thoughts-23/index.md"
   ]
 }

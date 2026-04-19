@@ -1,19 +1,11 @@
 ---
-title: 外链
-description: "这里列出了个人使用的外部平台链接。"
+title: 友链
+description: "在这里摆放网路结识陌路人的小木屋地址。"
 links:
-  - title: "GitHub"
-    description: 点击跳转到我的GitHub首页
-    website: https://github.com/purticra
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: "Twitter"
-    description: 点击跳转到我的Twitter首页
-    website: https://x.com/purticra
-    image: /x-logo.svg
-  - title: "Bluesky"
-    description: 点击跳转到我的Bluesky首页
-    website: https://bsky.app/profile/purticra.bsky.social
-    image: /bsky-logo.jpg
+  - title: "chihuo2104の部落格"
+    description: 
+    website: https://blog.chihuo2104.dev/
+    image: 
 menu:
     main: 
         weight: -50
