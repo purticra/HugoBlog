@@ -52,7 +52,7 @@ params:
 
     footer:
         since: 2024
-        customText: 这里是石岸。
+        customText: 这里是石岸。<br><a href="https://icp.gov.moe/?keyword=20262206" target="_blank">萌ICP备20262206号</a>	
 
     dateFormat:
         published: 2006.01.02 15:04 (UTCZ07:00)
