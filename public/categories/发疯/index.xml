@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>发疯 on RupricaT</title>
-        <link>http://localhost:13699/categories/%E5%8F%91%E7%96%AF/</link>
+        <link>http://localhost:1313/categories/%E5%8F%91%E7%96%AF/</link>
         <description>Recent content in 发疯 on RupricaT</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>@purticra</copyright>
-        <lastBuildDate>Tue, 21 Oct 2025 13:08:00 -0400</lastBuildDate><atom:link href="http://localhost:13699/categories/%E5%8F%91%E7%96%AF/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 21 Oct 2025 13:08:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/%E5%8F%91%E7%96%AF/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>生气！</title>
-        <link>http://localhost:13699/p/the-thoughts-8/</link>
+        <link>http://localhost:1313/p/the-thoughts-8/</link>
         <pubDate>Tue, 21 Oct 2025 13:08:00 -0400</pubDate>
         
-        <guid>http://localhost:13699/p/the-thoughts-8/</guid>
-        <description>&lt;img src="http://localhost:13699/p/the-thoughts-8/cover.jpg" alt="Featured image of post 生气！" /&gt;&lt;br&gt;
+        <guid>http://localhost:1313/p/the-thoughts-8/</guid>
+        <description>&lt;img src="http://localhost:1313/p/the-thoughts-8/cover.jpg" alt="Featured image of post 生气！" /&gt;&lt;br&gt;
 &lt;style&gt;
 .loop-integral-wrap {
   display: flex;

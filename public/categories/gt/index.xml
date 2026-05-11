@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>GT on RupricaT</title>
-        <link>http://localhost:13699/categories/gt/</link>
+        <link>http://localhost:1313/categories/gt/</link>
         <description>Recent content in GT on RupricaT</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>@purticra</copyright>
-        <lastBuildDate>Tue, 28 Oct 2025 09:56:15 -0400</lastBuildDate><atom:link href="http://localhost:13699/categories/gt/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 Oct 2025 09:56:15 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/gt/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>INTA1200 学习资料</title>
-        <link>http://localhost:13699/p/inta1200/</link>
+        <link>http://localhost:1313/p/inta1200/</link>
         <pubDate>Tue, 28 Oct 2025 09:56:15 -0400</pubDate>
         
-        <guid>http://localhost:13699/p/inta1200/</guid>
+        <guid>http://localhost:1313/p/inta1200/</guid>
         <description>&lt;p&gt;这里收录由&lt;a class=&#34;link&#34; href=&#34;https://inta.gatech.edu/people/person/jason-rich&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Jason Rich&lt;/a&gt;教授的INTA1200课程学习资料。&lt;/p&gt;
 &lt;p&gt;Supplementary Material of INTA1200 (Professor &lt;a class=&#34;link&#34; href=&#34;https://inta.gatech.edu/people/person/jason-rich&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Jason Rich&lt;/a&gt;).&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:13699/documents/GT/INTA1200/Notes_of_INTA_1200.pdf&#34; &gt;INTA1200&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/documents/GT/INTA1200/Notes_of_INTA_1200.pdf&#34; &gt;INTA1200&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div style=&#34;resize: vertical; overflow: hidden; border: 2px solid #ccc; border-radius: 4px; width: 100%; height: calc(100vh - 150px); min-height: 400px;&#34;&gt;
-    &lt;iframe src=&#34;http://localhost:13699/documents/GT/INTA1200/Notes_of_INTA_1200.pdf#toolbar=0&#34; 
+    &lt;iframe src=&#34;http://localhost:1313/documents/GT/INTA1200/Notes_of_INTA_1200.pdf#toolbar=0&#34; 
             width=&#34;100%&#34; 
             height=&#34;100%&#34;
             style=&#34;border: none;&#34;&gt;

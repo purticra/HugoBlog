@@ -8,26 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ae734894462b44c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "post/技术/rss-tutorial/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
             "id": "f590d399d1783f72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/技术/rss-tutorial/index.md",
+                "file": "post/杂谈/the-thoughts-33/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +21,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a09b8f0945975634",
@@ -109,8 +95,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post/杂谈/the-thoughts-13/index.md",
-                "collapseAll": false,
+                "file": "post/杂谈/the-thoughts-33/index.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -157,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "post/杂谈/the-thoughts-13/index.md",
+                "file": "post/杂谈/the-thoughts-33/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -166,12 +152,12 @@
               "title": "index 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,9 +170,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f590d399d1783f72",
+  "active": "348217821628ea78",
   "lastOpenFiles": [
     "post/技术/rss-tutorial/index.md",
+    "post/杂谈/the-thoughts-33/index.md",
     "_index.md",
     "categories/杂谈/_index.md",
     "categories/杂谈/image.jpg",
@@ -221,7 +208,6 @@
     "post/杂谈/the-thoughts-24/index.md",
     "post/杂谈/the-thoughts-23/index.md",
     "post/杂谈/the-thoughts-22/index.md",
-    "post/杂谈/杂谈/the-thoughts-23/index.md",
-    "杂谈/the-thoughts-23/index.md"
+    "post/杂谈/杂谈/the-thoughts-23/index.md"
   ]
 }

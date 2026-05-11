@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>技术文稿 on RupricaT</title>
-        <link>http://localhost:13699/tags/%E6%8A%80%E6%9C%AF%E6%96%87%E7%A8%BF/</link>
+        <link>http://localhost:1313/tags/%E6%8A%80%E6%9C%AF%E6%96%87%E7%A8%BF/</link>
         <description>Recent content in 技术文稿 on RupricaT</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>@purticra</copyright>
-        <lastBuildDate>Sun, 19 Apr 2026 12:07:19 -0400</lastBuildDate><atom:link href="http://localhost:13699/tags/%E6%8A%80%E6%9C%AF%E6%96%87%E7%A8%BF/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 19 Apr 2026 12:07:19 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%8A%80%E6%9C%AF%E6%96%87%E7%A8%BF/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>RSS订阅指南（？</title>
-        <link>http://localhost:13699/p/rss-tutorial/</link>
+        <link>http://localhost:1313/p/rss-tutorial/</link>
         <pubDate>Sun, 19 Apr 2026 12:07:19 -0400</pubDate>
         
-        <guid>http://localhost:13699/p/rss-tutorial/</guid>
+        <guid>http://localhost:1313/p/rss-tutorial/</guid>
         <description>&lt;p&gt;常常关注网页的朋友们大概已经留意到，这间小屋的架构时不时地经历一些所谓的调整和更新，来适配当下的技术发展（然而都是几十年前大家伙玩剩下的东西）。虽然博客站在当下移动互联网极大发展的背景下似乎已经变成什么无人问津的冷门小众哥独享玩物，但在这样的网页里做些所谓装修的事务依然是我所十分享受的事情。&lt;/p&gt;
 &lt;p&gt;这篇文章将会介绍新增的&lt;code&gt;RSS&lt;/code&gt;特性。&lt;/p&gt;
 &lt;p&gt;如各位所见，页面左侧的头像下方有个人的社交媒体链接图标，其中有一形似无线局域网标识的按钮并不能让你连接到本人的手机热点。若是好奇加以点击大概会收获一团冷静得像冰的文字团块，无格式地罗列着本站的内容，细心些观测网页的地址大抵会发现自己落在了&lt;code&gt;index.xml&lt;/code&gt;的地界上。&lt;/p&gt;
@@ -24,10 +24,10 @@
         </item>
         <item>
         <title>Career网站就绪！</title>
-        <link>http://localhost:13699/p/career-announcement/</link>
+        <link>http://localhost:1313/p/career-announcement/</link>
         <pubDate>Sun, 29 Mar 2026 22:42:17 -0400</pubDate>
         
-        <guid>http://localhost:13699/p/career-announcement/</guid>
+        <guid>http://localhost:1313/p/career-announcement/</guid>
         <description>&lt;p&gt;春假后的一个带着闲情雅致的下午，突然想起来下周二是career website的截止时间，无论如何都得把这破东西写完。&lt;/p&gt;
 &lt;p&gt;于是从口袋里拿出了Claude Code&amp;hellip;&lt;/p&gt;
 &lt;p&gt;哦我的拖鞋啊，原来现在连构建网页都已经变成Claude弹指可成的事情，我之前白费的时间现在都可以用来写这些没用的技术文稿了。&lt;/p&gt;
@@ -39,10 +39,10 @@
         </item>
         <item>
         <title>博客站已迁移至vercel</title>
-        <link>http://localhost:13699/p/switch-to-vercel/</link>
+        <link>http://localhost:1313/p/switch-to-vercel/</link>
         <pubDate>Fri, 30 Jan 2026 00:32:58 -0500</pubDate>
         
-        <guid>http://localhost:13699/p/switch-to-vercel/</guid>
+        <guid>http://localhost:1313/p/switch-to-vercel/</guid>
         <description>&lt;p&gt;本博客站已经由Github Pages转移到Vercel部署，部分地区的连接性可能波动，连接不稳定时建议适当切换网络环境。&lt;/p&gt;
 &lt;p&gt;主站域名：&lt;a class=&#34;link&#34; href=&#34;journal.purticra.icu&#34; &gt;journal.purticra.icu&lt;/a&gt;
 备用域名：&lt;a class=&#34;link&#34; href=&#34;purticra.vercel.app&#34; &gt;purticra.vercel.app&lt;/a&gt;&lt;/p&gt;
