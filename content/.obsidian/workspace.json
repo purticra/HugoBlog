@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/杂谈/the-thoughts-33/index.md",
+                "file": "post/杂谈/the-thoughts-34/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "post/杂谈/the-thoughts-33/index.md",
+                "file": "post/杂谈/the-thoughts-34/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,10 +170,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "348217821628ea78",
+  "active": "f590d399d1783f72",
   "lastOpenFiles": [
-    "post/技术/rss-tutorial/index.md",
     "post/杂谈/the-thoughts-33/index.md",
+    "post/杂谈/the-thoughts-34/index.md",
+    "post/杂谈/the-thoughts-34",
+    "post/技术/rss-tutorial/index.md",
     "_index.md",
     "categories/杂谈/_index.md",
     "categories/杂谈/image.jpg",
@@ -201,13 +203,11 @@
     "post/杂谈/the-thoughts-26/index.md",
     "post/GT/INTA1200/index.md",
     "post/杂谈/Robotech-hackathon-2026",
-    "Notes_of_INTA_1200.pdf",
     "documents/GT/INTA1200/INTA1200_Part_1.pdf.md",
     "post/杂谈/the-thoughts-25/index.md",
     "post/杂谈/the-story-1/index.md",
     "post/杂谈/the-thoughts-24/index.md",
     "post/杂谈/the-thoughts-23/index.md",
-    "post/杂谈/the-thoughts-22/index.md",
-    "post/杂谈/杂谈/the-thoughts-23/index.md"
+    "post/杂谈/the-thoughts-22/index.md"
   ]
 }
