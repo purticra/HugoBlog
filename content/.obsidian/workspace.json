@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/杂谈/the-thoughts-34/index.md",
+                "file": "post/杂谈/the-thoughts-36/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a09b8f0945975634",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "post/杂谈/the-thoughts-34/index.md",
+                "file": "post/杂谈/the-thoughts-35/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -157,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,8 +172,10 @@
   },
   "active": "f590d399d1783f72",
   "lastOpenFiles": [
-    "post/杂谈/the-thoughts-33/index.md",
+    "post/杂谈/the-thoughts-35/index.md",
     "post/杂谈/the-thoughts-34/index.md",
+    "post/杂谈/the-thoughts-35",
+    "post/杂谈/the-thoughts-33/index.md",
     "post/杂谈/the-thoughts-34",
     "post/技术/rss-tutorial/index.md",
     "_index.md",
@@ -202,12 +204,10 @@
     "post/杂谈/birthday-2025/index.md",
     "post/杂谈/the-thoughts-26/index.md",
     "post/GT/INTA1200/index.md",
-    "post/杂谈/Robotech-hackathon-2026",
     "documents/GT/INTA1200/INTA1200_Part_1.pdf.md",
     "post/杂谈/the-thoughts-25/index.md",
     "post/杂谈/the-story-1/index.md",
     "post/杂谈/the-thoughts-24/index.md",
-    "post/杂谈/the-thoughts-23/index.md",
-    "post/杂谈/the-thoughts-22/index.md"
+    "post/杂谈/the-thoughts-23/index.md"
   ]
 }
