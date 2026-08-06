@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/杂谈/the-thoughts-36/index.md",
+                "file": "post/杂谈/the-thoughts-37/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a09b8f0945975634",
@@ -172,15 +173,16 @@
   },
   "active": "f590d399d1783f72",
   "lastOpenFiles": [
+    "_index.md",
+    "categories/杂谈/_index.md",
+    "categories/杂谈/image.jpg",
+    "post/杂谈/the-thoughts-36/index.md",
     "post/杂谈/the-thoughts-35/index.md",
     "post/杂谈/the-thoughts-34/index.md",
     "post/杂谈/the-thoughts-35",
     "post/杂谈/the-thoughts-33/index.md",
     "post/杂谈/the-thoughts-34",
     "post/技术/rss-tutorial/index.md",
-    "_index.md",
-    "categories/杂谈/_index.md",
-    "categories/杂谈/image.jpg",
     "categories/技术/_index.md",
     "post/杂谈/the-thoughts-32/index.md",
     "未命名.base",
@@ -206,8 +208,6 @@
     "post/GT/INTA1200/index.md",
     "documents/GT/INTA1200/INTA1200_Part_1.pdf.md",
     "post/杂谈/the-thoughts-25/index.md",
-    "post/杂谈/the-story-1/index.md",
-    "post/杂谈/the-thoughts-24/index.md",
-    "post/杂谈/the-thoughts-23/index.md"
+    "post/杂谈/the-story-1/index.md"
   ]
 }
