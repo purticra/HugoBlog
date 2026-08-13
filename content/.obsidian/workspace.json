@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/杂谈/the-thoughts-37/index.md",
+                "file": "post/杂谈/the-thoughts-38/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -78,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a09b8f0945975634",
@@ -173,6 +174,9 @@
   },
   "active": "f590d399d1783f72",
   "lastOpenFiles": [
+    "post/杂谈/the-thoughts-37/index.md",
+    "post/杂谈/the-thoughts-38/index.md",
+    "post/杂谈/the-thoughts-38",
     "_index.md",
     "categories/杂谈/_index.md",
     "categories/杂谈/image.jpg",
@@ -202,12 +206,10 @@
     "post/技术/switch-to-vercel",
     "post/技术",
     "post/杂谈/Robotech-hackathon-2026/index.md",
-    "post/杂谈/the-thoughts-27",
     "post/杂谈/birthday-2025/index.md",
     "post/杂谈/the-thoughts-26/index.md",
     "post/GT/INTA1200/index.md",
     "documents/GT/INTA1200/INTA1200_Part_1.pdf.md",
-    "post/杂谈/the-thoughts-25/index.md",
-    "post/杂谈/the-story-1/index.md"
+    "post/杂谈/the-thoughts-25/index.md"
   ]
 }

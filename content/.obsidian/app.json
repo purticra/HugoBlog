@@ -1,5 +1,6 @@
 {
-  "strictLineBreaks": true,
-  "showLineNumber": false,
-  "readableLineLength": true
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "propertiesInDocument": "visible"
 }
