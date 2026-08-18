@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "f6c70dcc1454630c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "post/杂谈/the-thoughts-39/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,10 +187,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f590d399d1783f72",
+  "active": "f6c70dcc1454630c",
   "lastOpenFiles": [
-    "post/杂谈/the-thoughts-37/index.md",
     "post/杂谈/the-thoughts-38/index.md",
+    "post/杂谈/the-thoughts-39/index.md",
+    "post/杂谈/the-thoughts-39",
+    "post/杂谈/the-thoughts-37/index.md",
     "post/杂谈/the-thoughts-38",
     "_index.md",
     "categories/杂谈/_index.md",
@@ -204,12 +221,10 @@
     "categories/未命名.md",
     "post/杂谈/the-thoughts-27/index.md",
     "post/技术/switch-to-vercel",
-    "post/技术",
     "post/杂谈/Robotech-hackathon-2026/index.md",
     "post/杂谈/birthday-2025/index.md",
     "post/杂谈/the-thoughts-26/index.md",
     "post/GT/INTA1200/index.md",
-    "documents/GT/INTA1200/INTA1200_Part_1.pdf.md",
-    "post/杂谈/the-thoughts-25/index.md"
+    "documents/GT/INTA1200/INTA1200_Part_1.pdf.md"
   ]
 }
